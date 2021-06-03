@@ -136,7 +136,8 @@ button:disabled {
   background-color: lightcoral;
 }
 
-#mensagens-erro {
+#mensagens-erro,
+#erro-ajax {
   color: red;
 }
 
